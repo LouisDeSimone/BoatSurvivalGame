@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6550a7ac211b0094f9daf37b6e978cdb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CausticMap: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
